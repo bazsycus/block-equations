@@ -1,0 +1,10 @@
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\bin\Debug\07_Tombmuveletek.exe.config
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\bin\Debug\07_Tombmuveletek.exe
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\bin\Debug\07_Tombmuveletek.pdb
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\obj\Debug\07_Tombmuveletek.csprojAssemblyReference.cache
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\obj\Debug\_07_Tombmuveletek.Form1.resources
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\obj\Debug\_07_Tombmuveletek.Properties.Resources.resources
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\obj\Debug\07_Tombmuveletek.csproj.GenerateResource.cache
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\obj\Debug\07_Tombmuveletek.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\obj\Debug\07_Tombmuveletek.exe
+C:\Users\Leleke\source\repos\07_Tombmuveletek\07_Tombmuveletek\obj\Debug\07_Tombmuveletek.pdb
