@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\bin\Debug\06_Tombok_listak.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\bin\Debug\06_Tombok_listak.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\bin\Debug\06_Tombok_listak.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\obj\Debug\06_Tombok_listak.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\obj\Debug\_06_Tombok_listak.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\obj\Debug\_06_Tombok_listak.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\obj\Debug\06_Tombok_listak.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\obj\Debug\06_Tombok_listak.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\obj\Debug\06_Tombok_listak.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\06_Tombok_listak\06_Tombok_listak\obj\Debug\06_Tombok_listak.pdb
